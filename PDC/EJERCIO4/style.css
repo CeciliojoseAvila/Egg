@@ -1,0 +1,62 @@
+
+:root {
+    --background: #E5E5E5;
+    --buttons: rgba(82, 138, 243, 0.6);
+    --buttonsHover: rgba(34, 59, 105, 0.6);
+    --btnGreen: white;
+    --btnGreenHover: rgba(40, 76, 192, 0.6);
+
+}
+
+
+
+main h2 {
+    text-align: center;
+    justify-content: center;
+    align-items:center;
+    color: white;
+}
+
+
+
+.card {
+    background-color: var(--btnGreen);
+    position: flex;
+    width: 336px;
+    height: 304px;
+    left: 1120px;
+    display: flex;
+
+}
+
+
+
+.saveValues:hover {
+    color: white;
+    font-weight: bolder;
+    background-color: var(--buttonsHover);
+}
+
+
+textarea {
+    font-size: 15px;
+
+}
+
+
+
+.ingresa-texto {
+    color: white;
+    font-style: normal;
+    font-weight: 700;
+    margin-right: auto;
+    font-size: 15px;
+}
+
+
+.desarrollo {
+    font-size: medium;
+}
+
+
+

@@ -1,0 +1,30 @@
+   
+
+.one {
+    width: 120px;
+    height: 120px;
+    background-color: rgb(211, 97, 4);
+    margin-top: 30px;
+    margin-left: 670px;  
+    
+} 
+
+.two {
+    width: 100%;
+    height: 100px;
+    background-color: rgb(19, 56, 219);
+    margin: 0;
+    margin-top: 10%;  
+}
+
+.Three {    
+    width: 110px;
+    height: 100px;
+    background-color: hsl(140, 85%, 46%);    
+    padding: 10px;
+    position: absolute;
+    bottom: 30px;
+    right: 50%;
+
+   
+}
